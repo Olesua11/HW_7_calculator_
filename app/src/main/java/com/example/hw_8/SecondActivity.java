@@ -1,4 +1,4 @@
-package com.example.hw_8;
+package com.example.hw_7_calculator_;
 
 import androidx.appcompat.app.AppCompatActivity;
 
