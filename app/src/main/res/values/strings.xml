@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HW_8</string>
+        <string name="category">Category</string>
+        <string name="MainText">Explore the nightlife of your city</string>
+        <string name="price">Price💰</string>
+        <string name="accessibility">Accessibility</string>
+        <string name="participants">Participants</string>
+        <string name="free">free</string>
+        <string name="next">Next</string>
+        <string name="price_2">Price</string>
+        <string name="todo">TODO</string>
+        <string name="s2_activity">Go to Second activity</string>
+
+    </resources>

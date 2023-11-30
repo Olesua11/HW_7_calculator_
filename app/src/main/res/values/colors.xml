@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#CC6B02</color>
+    <color name="gray">#8F8A8A</color>
+    <color name="dark_gray">#3C3A3A</color>
+    <color name="blackk">#28323B</color>
+    <color name="button_color">#DC366A</color>
+    <color name="color1">#4486F1</color>
+    <color name="color2">#702DFF</color>
+    <color name="bl">#4687F0</color>
+
+
+    <color name="s2Black">#28323B</color>
+
+
+
+
+
+
+
+    <color name="s2Blue_gradient">#4486F1</color>
+    <color name="s2Purple_gradient">#702DFF</color>
+    <color name="purple">#693BFD</color>
+    <color name="s2Blue_track">#2D4EF5</color>
+</resources>
